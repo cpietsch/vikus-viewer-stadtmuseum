@@ -293,7 +293,7 @@ function Canvas() {
         if (selectedImageDistance > cursorCutoff) return;
         if (selectedImage && !selectedImage.active) return;
         if (timelineHover) return;
-        // console.log(selectedImage)
+        console.log(selectedImage)
 
         if (Math.abs(zoomedToImageScale - scale) < 0.1) {
           canvas.resetZoom();
@@ -577,6 +577,8 @@ function Canvas() {
     detailVue._data.item = detailData;
     detailVue._data.id = d.id;
     detailVue._data.page = d.page;
+
+    console.log("detailData", detailData);
   }
 
   canvas.changePage = function (id, page) {

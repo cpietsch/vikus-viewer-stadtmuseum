@@ -9,7 +9,7 @@
       "textures": {
         "preview": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/sprites/menu_small_web.json",
         "medium": {
-          "size": 128,
+          "size": 200,
           "url": "https://vikusviewer.fh-potsdam.de/stadtmuseum/data/sprites/spritesheet.json"
         },
         "detail": {
@@ -38,7 +38,60 @@
     },
     "detail": {
       "structure": [
-       
+        {
+          "name": "Titel",
+          "source": "_Titel",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Künstler:in",
+          "source": "_Künstler:in",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Inventarnummer",
+          "source": "_Inventarnummer",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Dateiname",
+          "source": "_id",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Datierung Von",
+          "source": "_Datierung Von",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Datierung Bis",
+          "source": "_Datierung Bis",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Techniken",
+          "source": "_Techniken",
+          "display": "column",
+          "type": "text"
+        },
+        {
+          "name": "Keywords",
+          "source": "_keywords",
+          "display": "column",
+          "type": "keywords"
+        },
+        {
+          "name": "Schlagworte von Museumsmitarbeiter:innen",
+          "source": "_keywords2",
+          "display": "column",
+          "type": "text"
+        }
       ]
     }
   }
