@@ -1,0 +1,128 @@
+id,yearExact,year,keywords
+GEM_64_3,1935,1940,Schule
+GEM_64_9,1926,1930,
+GEM_65_3,1823,1820,
+GEM_66_12,1933,1930,"Brand,Reichstag"
+GEM_66_21,1927,1930,
+GEM_66_22,1927,1930,
+GEM_66_3,1925,1930,Platz
+GEM_67_2,1886,1890,
+GEM_68_14,1927,1930,"Architektur,Nacht,Potsdamer Straße,Stadtbild,Straßenbahn,Straßenverkehr"
+GEM_68_25,1904,1900,Kirche
+GEM_68_43,1866,1870,"Eisenbahn,Gemälde,Kreuzberg,Stadtansicht"
+GEM_68_53,1930,1930,
+GEM_69_17,1915,1920,
+GEM_69_26,1905,1910,
+GEM_70_2,1930,1930,Platz
+GEM_70_3,1906,1910,
+GEM_71_1,1880,1880,"Bäume,Fluss,Havel,Landschaft,Promenade,Ufer"
+GEM_71_5,1886,1890,"Gebäude,Wasser"
+GEM_72_10,1911,1910,"Berlin,Impressionismus,Parkbank,Spaziergänger,Stadtbild"
+GEM_72_16,1925,1930,"Brücke,Dampfer,Jannowitzbrücke,Spree,Stadtbild"
+GEM_73_13,1894,1890,
+GEM_73_2,1911,1910,"Architektur,Platz,Stadtbild,Vogelschau"
+GEM_74_10,1872,1870,"Bäume,Denkmal,General,Militär,Stadtbild,Wilhelmplatz"
+GEM_74_11,1910,1910,
+GEM_74_4,1907,1910,Museum
+GEM_75_19,1911,1910,"Markt,Platz,Weihnachten"
+GEM_75_20,1915,1920,Spielplatz
+GEM_75_5,1840,1840,"Architektur,Berliner,Biedermeier,Genre,Markt,Rathaus,Stadtbild,Straßenszene"
+GEM_75_7,1912,1910,Platz
+GEM_76_10,1920,1920,
+GEM_76_31,1891,1890,"Gasanstalt,Verkehr"
+GEM_78_1,1881,1880,"Fabrik,Färberei"
+GEM_78_5,1875,1880,"Brücke,Schloß"
+GEM_79_44,1860,1860,"Berlin-Charlottenburg,Fabrik,Industrie,Stadtbild"
+GEM_80_17,1925,1930,
+GEM_80_2,1945,1950,"Klosterkirche,Nachkriegszeit,Rotes Rathaus,Ruine"
+GEM_80_3,1940,1940,
+GEM_80_32,1894,1890,Tor
+GEM_80_7,1827,1830,"Architektur,Biedermeier,Garnisonkirche,Kirche,Potsdam,Stadtbild"
+GEM_81_1,1855,1860,"Denkmal,Friedrich II.,Humboldt-Universität,Unter den Linden"
+GEM_81_12,1785,1790,
+GEM_81_8,1901,1900,
+GEM_84_1,1838,1840,"Atelier,Biedermeier,Gartenhaus,Schadow"
+GEM_84_2,1860,1860,"Architektur,Oper,Unter den Linden,Vedute,Zeughaus"
+GEM_84_9,1893,1890,"Dom,Lustgarten,Sprengung,Stadtbild"
+GEM_85_2,1913,1910,"Brandenburg,Hermsdorf,Wasserturm"
+GEM_86_14,1879,1880,"Bahnhof,Verkehr"
+GEM_86_15,1832,1830,Museum
+GEM_86_35,1905,1910,
+GEM_86_54,1948,1950,"Architektur,Künstlerin,Nachkriegszeit,Ruine,Stadtbild"
+GEM_86_6,1907,1910,
+GEM_87_2,1849,1850,"Mühlengraben,Schloss"
+GEM_87_8,1892,1890,Schloss
+GEM_88_14,1830,1830,"Genre,Landschaft,Schnee,Winter"
+GEM_88_4,1835,1840,"Berlin-Mitte,Biedermeier,Schinkel,Stadtansicht,Stadtbild"
+GEM_88_41,1912,1910,"Expressionismus,Kreuzung,Nollendorfplatz,Stadtbild,Straßenbahn"
+GEM_88_7,1891,1890,
+GEM_88_9,1905,1910,
+GEM_89_10,1690,1690,"Berlin,Berliner Schloss,Cölln"
+GEM_89_11,1853,1850,"Berlin,Berlin-Wilmersdorf,Landschaft"
+GEM_89_24,1860,1860,Künstlerin
+GEM_89_25,1860,1860,Künstlerin
+GEM_89_3,1912,1910,
+GEM_91_11,1910,1910,U-Bahn
+GEM_93_6,1787,1790,Markt
+GS_07_35_GM,1847,1850,"Berlin,Borsig,Industrie,Lokomotive,Pferdegespann,Schornstein,Stadtbild,Uhr"
+GS_08_2_GM,1890,1890,"Architektur,Berlin-Tiergarten,Kutsche,Stadtbild,Straßenansicht"
+GS_08_5_GM,1842,1840,
+GS_2000_28_GM,1847,1850,"Architektur,Bellevue,Park,Schloss,Schloss Bellevue"
+GS_98_2_GM,1781,1780,Stadtansicht
+SM_2011-2687,1933,1930,
+SM_2012-0158,1778,1780,"Gebäude,Kirche,Mauerstraße"
+SM_2012-1240_KOU,1905,1910,"Königsberg,Preußen,Stadtbild"
+SM_2018-09251,1895,1900,
+VII_59_234_x,1931,1930,"Arbeiter,Architektur,Großstadt,Stadtbild,Straßenszene"
+VII_59_235_x,1929,1930,
+VII_59_237_x,1895,1900,
+VII_59_249_x,1929,1930,"Architektur,Großstadt,Molkenmarkt,Stadtbild,Straßen/Plätze,Verkehr"
+VII_59_259_x,1925,1930,
+VII_59_261_x,1932,1930,
+VII_59_267_x,1927,1930,Straßen/Plätze
+VII_59_433_x,1839,1840,Parade
+VII_59_463_x,1865,1870,"Architektur,Juden,Kuppel,Oranienburger Straße,Religion,Stadtbild,Synagoge,Vedute"
+VII_59_483_x,1770,1770,"Ausflugsziel,Tiergarten,Zelten"
+VII_59_497_x,1830,1830,"Berlin,Genre,Landschaft,Schlittschuh,Vergnügen,Winter"
+VII_59_512_x,1788,1790,"Königstraße,Rokoko,Schloßplatz,Stadtansicht"
+VII_59_513_x,1788,1790,"Rokoko,Stadtansicht,Unter den Linden,Zeughaus"
+VII_59_514_x,1786,1790,"Architektur,Stadtbild,Unter den Linden,Zeughaus"
+VII_59_515_x,1788,1790,"Französischer Dom,Gendarmenmarkt,Komödienhaus,Markt,Stadtbild"
+VII_59_742_x,1840,1840,Bilderuhr
+VII_59_744_x,1835,1840,
+VII_59_745_x,1867,1870,
+VII_59_747_x,1835,1840,
+VII_59_749_x,1858,1860,
+VII_59_758_x,1868,1870,Rathaus
+VII_59_761_x,1867,1870,"Mittelalter,Rathaus,Spandauer Straße,Stadtbild"
+VII_59_773_x,1862,1860,
+VII_59_775_x,1825,1830,"Dom,Kutsche,Reiter,Schloss,Unter den Linden"
+VII_59_777_x,1848,1850,"Aufstand,Märzrevolution,Straßenkampf"
+VII_59_804_x,1827,1830,"Biedermeier,Bäume,Landschaft,Park,Schloss Bellevue,Tiergarten"
+VII_59_806_x,1827,1830,Kirche
+VII_59_809_x,1832,1830,Brücke
+VII_59_830_x,1903,1900,"Berlin,Berlin-Mitte,Klosterstraße"
+VII_59_841_x,1895,1900,Platz
+VII_59_849_x,1875,1880,"Eisengießerei,Gebäude"
+VII_59_869_x,1847,1850,"Kreuzberg,Landschaft"
+VII_59_940_x,1865,1870,
+VII_59_950_x,1860,1860,
+VII_60_110_x,1840,1840,"Berlin,Mühlen,Mühlendamm"
+VII_60_111_x,1842,1840,
+VII_60_132_x,1843,1840,
+VII_60_165_x,1907,1910,Schloss
+VII_60_203_x,1929,1930,
+VII_60_230_x,1755,1760,"Brand,Brücke,Mühlendamm,Stadtbild"
+VII_60_273_x,1850,1850,
+VII_60_282_x,1835,1840,
+VII_60_286_x,1849,1850,
+VII_60_411_x,1784,1780,"Berlin-Mitte,Deutscher Dom,Gendarmenmarkt"
+VII_60_527_x,1780,1780,
+VII_60_662_x,1810,1810,"Bilderuhr,Gemälde"
+VII_61_454_x,1905,1910,"Architektur,Böhmen,Kirche,Stadtbild,Weihnachten,Winter"
+VII_61_703_x,1831,1830,"Altes Museum,Architektur,Biedermeier,Cantian,Granitschale,Lustgarten"
+VII_62_195_x,1870,1870,"Fluss,Gebirge,Landschaft,Südeuropa"
+VII_65_1443_x,1906,1910,Gebäude
+VII_75_130_x,1926,1930,Brücke
+VII_77_1_x,1842,1840,Schloß
+VII_95_95_x,1829,1830,"Biedermeier,Fluss,Landschaft,Mühle,Wasser,Wassermühle"

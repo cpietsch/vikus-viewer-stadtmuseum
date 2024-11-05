@@ -1,0 +1,44 @@
+{
+    "project": {
+      "name": "Stadtmuseum",
+      "quality": 1
+  },
+    "loader": {
+      "info": "data/info.md",
+      "items": "data/data.csv",
+      "textures": {
+        "preview": "https://vikusviewer.fh-potsdam.de/muenzen/vis/data/sprites/menu_small_web.json",
+        "medium": {
+          "size": 128,
+          "url": "https://vikusviewer.fh-potsdam.de/stadtmuseum/data/sprites/spritesheet.json"
+        },
+        "detail": {
+          "size": 1024,
+          "url": "https://vikusviewer.fh-potsdam.de/stadtmuseum/data/1024/"
+        }
+      }
+    },
+    "style": {
+      "fontColor": "#2b2b2b",
+      "fontColorActive": "#ffffff",
+      "fontBackground": "#2b2b2b",
+      "textShadow": "none",
+      "canvasBackground": "#f8f9fa",
+      "timelineBackground": "#f8f9fa",
+      "timelineFontColor": "#000",
+      "backgroundHeader": "#035151",
+      "fontColorHeader": "#fffefa",
+      "detailBackground": "#f8f9fa",
+      "infoBackground": "#f8f9fa",
+      "infoFontColor": "#2b2b2b",
+      "searchbarBackground": "#353535"
+    },
+    "projection": {
+      "columns": 2
+    },
+    "detail": {
+      "structure": [
+       
+      ]
+    }
+  }
